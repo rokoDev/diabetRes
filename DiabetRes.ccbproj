@@ -87,7 +87,7 @@
 			<key>publishCCB</key>
 			<true/>
 			<key>publishDirectory</key>
-			<string>Resources_ios</string>
+			<string>../../publish/ios</string>
 			<key>publishEnabled</key>
 			<true/>
 			<key>publishOther</key>
@@ -162,7 +162,7 @@
 			<key>publishCCB</key>
 			<true/>
 			<key>publishDirectory</key>
-			<string>Resources_android</string>
+			<string>../../publish/android</string>
 			<key>publishEnabled</key>
 			<true/>
 			<key>publishOther</key>
